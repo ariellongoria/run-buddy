@@ -12,3 +12,5 @@ https://ariellongoria.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ariel Longoria
+
+### ©️2019 Run Buddy, Inc 
